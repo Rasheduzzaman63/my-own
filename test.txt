@@ -1,1 +1,2 @@
 ECHO is on.
+my own echo is two.
